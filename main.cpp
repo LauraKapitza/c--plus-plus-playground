@@ -31,5 +31,6 @@ int main() {
     //print_narrowing_conversion_example();
     //write_letter();
     //compare_int_inputs();
-    compare_double_inputs();
+    //compare_double_inputs();
+    calculate_units_in_cm();
 }
